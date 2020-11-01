@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smallimprint-stock-chart-demo/precache-manifest.e8e0aa0d42b801cf19937cc238c5a124.js"
+  "/smallimprint-stock-chart-demo/precache-manifest.734b79bd817e774bd12eb88b6e80a73a.js"
 );
 
 self.addEventListener('message', (event) => {
