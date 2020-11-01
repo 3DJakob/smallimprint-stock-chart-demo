@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smallimprint-stock-chart-demo/static/css/main.88824ec2.chunk.css",
-    "main.js": "/smallimprint-stock-chart-demo/static/js/main.e34fac83.chunk.js",
-    "main.js.map": "/smallimprint-stock-chart-demo/static/js/main.e34fac83.chunk.js.map",
+    "main.js": "/smallimprint-stock-chart-demo/static/js/main.83d41b66.chunk.js",
+    "main.js.map": "/smallimprint-stock-chart-demo/static/js/main.83d41b66.chunk.js.map",
     "runtime-main.js": "/smallimprint-stock-chart-demo/static/js/runtime-main.1131e965.js",
     "runtime-main.js.map": "/smallimprint-stock-chart-demo/static/js/runtime-main.1131e965.js.map",
     "static/css/2.93b3b32d.chunk.css": "/smallimprint-stock-chart-demo/static/css/2.93b3b32d.chunk.css",
     "static/js/2.e40119f0.chunk.js": "/smallimprint-stock-chart-demo/static/js/2.e40119f0.chunk.js",
     "static/js/2.e40119f0.chunk.js.map": "/smallimprint-stock-chart-demo/static/js/2.e40119f0.chunk.js.map",
     "index.html": "/smallimprint-stock-chart-demo/index.html",
-    "precache-manifest.911ebe32f1cad83c8610a586ea6e7982.js": "/smallimprint-stock-chart-demo/precache-manifest.911ebe32f1cad83c8610a586ea6e7982.js",
+    "precache-manifest.e8e0aa0d42b801cf19937cc238c5a124.js": "/smallimprint-stock-chart-demo/precache-manifest.e8e0aa0d42b801cf19937cc238c5a124.js",
     "service-worker.js": "/smallimprint-stock-chart-demo/service-worker.js",
     "static/css/2.93b3b32d.chunk.css.map": "/smallimprint-stock-chart-demo/static/css/2.93b3b32d.chunk.css.map",
     "static/css/main.88824ec2.chunk.css.map": "/smallimprint-stock-chart-demo/static/css/main.88824ec2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.93b3b32d.chunk.css",
     "static/js/2.e40119f0.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.e34fac83.chunk.js"
+    "static/js/main.83d41b66.chunk.js"
   ]
 }
