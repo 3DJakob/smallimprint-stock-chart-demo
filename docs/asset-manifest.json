@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/smallimprint-stock-chart-demo/static/css/main.88824ec2.chunk.css",
-    "main.js": "/smallimprint-stock-chart-demo/static/js/main.fc721389.chunk.js",
-    "main.js.map": "/smallimprint-stock-chart-demo/static/js/main.fc721389.chunk.js.map",
+    "main.js": "/smallimprint-stock-chart-demo/static/js/main.088e9f80.chunk.js",
+    "main.js.map": "/smallimprint-stock-chart-demo/static/js/main.088e9f80.chunk.js.map",
     "runtime-main.js": "/smallimprint-stock-chart-demo/static/js/runtime-main.1131e965.js",
     "runtime-main.js.map": "/smallimprint-stock-chart-demo/static/js/runtime-main.1131e965.js.map",
     "static/css/2.93b3b32d.chunk.css": "/smallimprint-stock-chart-demo/static/css/2.93b3b32d.chunk.css",
-    "static/js/2.e40119f0.chunk.js": "/smallimprint-stock-chart-demo/static/js/2.e40119f0.chunk.js",
-    "static/js/2.e40119f0.chunk.js.map": "/smallimprint-stock-chart-demo/static/js/2.e40119f0.chunk.js.map",
+    "static/js/2.36cbc4a3.chunk.js": "/smallimprint-stock-chart-demo/static/js/2.36cbc4a3.chunk.js",
+    "static/js/2.36cbc4a3.chunk.js.map": "/smallimprint-stock-chart-demo/static/js/2.36cbc4a3.chunk.js.map",
     "index.html": "/smallimprint-stock-chart-demo/index.html",
-    "precache-manifest.a79fe355933b0721a7790d641774fbb2.js": "/smallimprint-stock-chart-demo/precache-manifest.a79fe355933b0721a7790d641774fbb2.js",
+    "precache-manifest.09cafc4c87dd6a1f076909ba791cbd4c.js": "/smallimprint-stock-chart-demo/precache-manifest.09cafc4c87dd6a1f076909ba791cbd4c.js",
     "service-worker.js": "/smallimprint-stock-chart-demo/service-worker.js",
     "static/css/2.93b3b32d.chunk.css.map": "/smallimprint-stock-chart-demo/static/css/2.93b3b32d.chunk.css.map",
     "static/css/main.88824ec2.chunk.css.map": "/smallimprint-stock-chart-demo/static/css/main.88824ec2.chunk.css.map",
-    "static/js/2.e40119f0.chunk.js.LICENSE.txt": "/smallimprint-stock-chart-demo/static/js/2.e40119f0.chunk.js.LICENSE.txt"
+    "static/js/2.36cbc4a3.chunk.js.LICENSE.txt": "/smallimprint-stock-chart-demo/static/js/2.36cbc4a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1131e965.js",
     "static/css/2.93b3b32d.chunk.css",
-    "static/js/2.e40119f0.chunk.js",
+    "static/js/2.36cbc4a3.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.fc721389.chunk.js"
+    "static/js/main.088e9f80.chunk.js"
   ]
 }
