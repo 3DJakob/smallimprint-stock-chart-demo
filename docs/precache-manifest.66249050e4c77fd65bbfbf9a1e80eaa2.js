@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e49e5327d9145a86c343da95e583281e",
+    "revision": "c84cde75a383d20a10b6af1131e9ecbd",
     "url": "/smallimprint-stock-chart-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smallimprint-stock-chart-demo/static/css/2.93b3b32d.chunk.css"
   },
   {
-    "revision": "32b615cf7c97219e695b",
+    "revision": "fc4c4f86eef4d9fb232f",
     "url": "/smallimprint-stock-chart-demo/static/css/main.88824ec2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smallimprint-stock-chart-demo/static/js/2.36cbc4a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32b615cf7c97219e695b",
-    "url": "/smallimprint-stock-chart-demo/static/js/main.088e9f80.chunk.js"
+    "revision": "fc4c4f86eef4d9fb232f",
+    "url": "/smallimprint-stock-chart-demo/static/js/main.6e943dc4.chunk.js"
   },
   {
     "revision": "48881a3df87bd6f20744",
